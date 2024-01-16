@@ -23,7 +23,7 @@ A range of machine learning models have been employed to predict the expenses. T
 - Random Forests: To capture non-linear patterns and interactions between different expense factors.
 - GradientBoostingRegressor
   
-Each model's performance was evaluated based on accuracy and ability to generalize, using cross-validation techniques.
+Each model's performance was evaluated based on accuracy and ability to generalize, using TimeSeriesSplit.
 
 # Results and Insights
 The models have yielded insightful findings. For instance, the proximity to water surfaces had an impact on certain expense categories, likely due to additional environmental compliance costs. Similarly, petrol prices showed a correlation with transport-related expenses. These insights can guide cost optimization strategies and informed decision-making for Regency Centers.
