@@ -14,6 +14,7 @@ The analysis is based on data provided by the Regency Centers, encompassing deta
 - Zipcode and Size of Regency Centers: Analyzing how location and the physical size of the centers influence their operational costs.
 - Proximity to Water Surfaces: Investigating if being near water bodies affects expenses, possibly due to environmental regulations or insurance costs.
 - Impact of Petrol Prices: Assessing how fluctuations in petrol prices correlate with the overall expenses of the centers.
+- Time series analysis, seasonality, and trend analysis for each of the expenses.
 
 Machine Learning Models Used
 A range of machine learning models have been employed to predict the expenses. These include:
