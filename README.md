@@ -18,9 +18,11 @@ The analysis is based on data provided by the Regency Centers, encompassing deta
 Machine Learning Models Used
 A range of machine learning models have been employed to predict the expenses. These include:
 
-Linear Regression Models: For establishing baseline predictions and understanding linear relationships between variables.
-Random Forests: To capture non-linear patterns and interactions between different expense factors.
-GradientBoostingRegressor
+- Linear Regression Models: For establishing baseline predictions and understanding linear relationships between variables.
+- Random Forests: To capture non-linear patterns and interactions between different expense factors.
+- GradientBoostingRegressor
+  
 Each model's performance was evaluated based on accuracy and ability to generalize, using cross-validation techniques.
-Results and Insights
+
+# Results and Insights
 The models have yielded insightful findings. For instance, the proximity to water surfaces had a notable impact on certain expense categories, likely due to additional environmental compliance costs. Similarly, petrol prices showed a significant correlation with transport-related expenses. These insights can guide cost optimization strategies and informed decision-making for Regency Centers.
